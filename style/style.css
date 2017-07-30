@@ -1,0 +1,72 @@
+body 
+{
+	margin: auto;
+	width: 50%;
+	background: url("../images/woodbackground.jpg"), peru;
+	background-size: cover;
+}
+
+h1 {
+	font-family: georgia, serif;
+	font-weight: bold;
+	color: brown;
+	text-shadow: 0px 1px 0px black;
+	text-align: center;
+}
+
+a 
+{
+	text-decoration: none;
+	font-family: verdana, sans-serif;
+}
+
+label 
+{
+	font-weight: bold;
+}
+
+.window 
+{
+	padding-left: 10px;
+	padding-top: 0;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	margin-right: 10px;
+	background-color: wheat;
+	border-style: solid;
+	border-color: tan;
+}
+
+.statform
+{
+	padding-bottom: 10px;
+	font-family: arial, sans-serif;
+	font-size: 12px;
+}
+
+
+#nameform 
+{
+	width: 50%;
+}
+
+#codeform 
+{
+	width: 6%;
+}
+
+#statusentry 
+{
+	width: 95%;
+}
+
+.footer-links
+{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.footer-links a 
+{
+	padding-right: 50px;
+}

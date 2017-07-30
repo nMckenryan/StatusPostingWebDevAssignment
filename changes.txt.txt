@@ -1,0 +1,8 @@
+STATUS POSTING SYSTEM VERSION 1:
+
+
+STATUS POSTING VERSION 2:
+
+TODO: Check format of Date and Status code pattern
+Check existence of the Table
+Improve UI And Responsiveness with Bootstrap
